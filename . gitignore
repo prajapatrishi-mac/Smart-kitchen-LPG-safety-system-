@@ -1,0 +1,96 @@
+==========================================
+
+SMART KITCHEN LPG GAS SAFETY SYSTEM
+
+Git Ignore Configuration
+
+==========================================
+
+---------- Arduino Build Files ----------
+
+build/
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.eep
+*.map
+*.sym
+
+---------- Arduino IDE Temporary Files ----------
+
+*.ino.eide
+*.ino.cpp
+.ino.cpp.o
+.ino.cpp.d
+arduino_build_/
+arduino_cache_/
+
+---------- Temporary and Backup Files ----------
+
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+*.swo
+*~
+
+---------- Operating System Files ----------
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+---------- Editor and IDE Settings ----------
+
+.vscode/
+.idea/
+*.sublime-workspace
+*.code-workspace
+
+---------- Logs ----------
+
+*.log
+logs/
+
+---------- Python Cache (if used for tools) ----------
+
+pycache/
+*.py[cod]
+.pytest_cache/
+
+---------- CAD Temporary Files ----------
+
+*.FCStd1
+*.FCBak
+*.autosave
+*.lck
+
+---------- Exported Temporary 3D Files ----------
+
+Do not ignore genuine project STL or STEP files.
+
+Keep actual CAD exports that belong to this project.
+
+---------- Secrets and Local Configuration ----------
+
+.env
+.env.*
+!.env.example
+secrets/
+credentials.json
+
+---------- Keep Important Project Files ----------
+
+Keep firmware, documentation, wiring diagrams,
+
+BOM.csv, genuine CAD files, and project photographs.
+
+Do not add broad rules that ignore these folders.
