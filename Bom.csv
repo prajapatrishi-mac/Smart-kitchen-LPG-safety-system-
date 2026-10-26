@@ -1,0 +1,17 @@
+Component,Model,Quantity,Unit Price INR,Total Price INR,Status
+Arduino Uno R3 Compatible Board,Uno R3,1,350,350,Required
+MQ-2 Gas Sensor Module,MQ-2,1,125,125,Required
+OLED Display,0.96 inch I2C 128x64,1,150,150,Required
+Servo Motor,SG90 9g,1,110,110,Required
+Relay Module,5V Single Channel,1,100,100,Required
+Exhaust Fan,12V DC Mini Fan,1,140,140,Required for demonstration only
+Buzzer,5V Active Buzzer,1,25,25,Required
+Red LED,5mm Red LED,1,5,5,Required
+Resistor,220 ohm,1,2,2,Required
+Jumper Wires,Assorted jumper wires,1 set,80,80,Required
+USB Cable,USB cable compatible with Uno,1,60,60,Required if not already owned
+Servo Power Supply,Regulated supply suitable for servo,1,150,150,If needed
+Fan Power Supply,12V DC supply suitable for fan,1,200,200,If needed
+Enclosure Material,Project enclosure material,1,150,150,Optional
+,,,,,
+TOTAL ESTIMATED COST,,,,"1647",Estimated
